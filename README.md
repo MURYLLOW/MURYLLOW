@@ -1,16 +1,14 @@
-## Hi there 👋
+  ### BOAS VINDAS AO MEU PERFIL 🖤
 
-<!--
-**MURYLLOW/MURYLLOW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é muryllo
 
-Here are some ideas to get you started:
+- estou estudando programação
+- estou aprendendo javaScript, html, css
+- estou aprendendo algumas coisas no [Alura](https://www.alura.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### entre em contato comigo 📫
+
+  murylloleandro25@gmail 📧
+  (+55) 11 94881-7729 📱
+
+  rede social: @santosmuryllo01
